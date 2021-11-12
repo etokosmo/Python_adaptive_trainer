@@ -40,3 +40,5 @@ for i in range(int(input())):
     if m not in numbers:
         numbers[m] = f(m)
     print(numbers[m])
+
+
